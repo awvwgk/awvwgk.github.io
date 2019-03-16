@@ -1,8 +1,16 @@
 ---
+layout: default
+title: Sebastian Ehlert
 ---
 
+My Manuals
+==========
+
+*  The *"User Guide to Semiempirical Tight Binding"*
+   for the `xtb` program can be found [here](xtb-tutorial).
+
 Publications
-------------
+============
 
 *  E. Caldeweyher, **S. Ehlert**, A. Hansen, H. Neugebauer, S. Spicher,
    C. Bannwarth and S. Grimme,

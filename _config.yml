@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sebastian Ehlert
+author: Sebastian Ehlert
 email: awvwgk@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -21,6 +22,8 @@ github_username:  awvwgk
 
 # Build settings
 markdown: kramdown
+kramdown:
+   parse_block_html: true
 theme: jekyll-theme-hacker
 
 # Exclude from processing.
