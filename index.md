@@ -14,10 +14,9 @@ Publications
 
 *  E. Caldeweyher, **S. Ehlert**, A. Hansen, H. Neugebauer, S. Spicher,
    C. Bannwarth and S. Grimme,
-   A Generally Applicable Atomic-Charge Dependent London Dispersion Correction
-   Scheme,
-   *ChemRxiv*, **2019**, preprint.
-   [DOI: 10.26434/chemrxiv.7430216](https://doi.org/10.26434/chemrxiv.7430216.v2)
+   A Generally Applicable Atomic-Charge Dependent London Dispersion Correction,
+   *J. Chem. Phys*, **2019**, 150 (15)
+   [DOI: 10.1063/1.5090222](https://doi.org/10.1063/1.5090222)
 
 *  C. Bannwarth, **S. Ehlert** and S. Grimme,
    GFN2-xTB—An Accurate and Broadly Parametrized Self-Consistent Tight-Binding 
