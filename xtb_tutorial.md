@@ -136,8 +136,9 @@ if set to verbose mode.
 Getting Help
 ============
 
-Beside this manual you are almost on your own. You can check the
-in-program help by
+Beside this manual ~you are almost on your own~ you can refer to the
+official [`xtb` documentation](https://xtb-docs.readthedocs.io/en/latest/contents.html).
+You can check the in-program help by
 
 {% highlight bash %}
 % xtb --help
